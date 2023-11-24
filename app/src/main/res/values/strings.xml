@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppPrevencionDeIncendios</string>
+    <string name="error_loading_room" />
+</resources>

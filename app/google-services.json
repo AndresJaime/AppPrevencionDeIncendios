@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998179794272",
+    "project_id": "prevencioncontraincendiosapp",
+    "storage_bucket": "prevencioncontraincendiosapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998179794272:android:876e67437ef4048c180205",
+        "android_client_info": {
+          "package_name": "com.example.appprevenciondeincendios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvTKyzwWRTJTtcZwxueNVzukb7tZEQHyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

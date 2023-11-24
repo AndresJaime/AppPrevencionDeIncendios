@@ -1,0 +1,8 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_habitaciones"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- Botones dinámicos se añadirán aquí -->
+</LinearLayout>
